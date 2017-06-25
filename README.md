@@ -15,4 +15,6 @@ I've been posting my progress on my [Patreon](https://www.patreon.com/posts/geno
 
 ![alt](https://github.com/KristinHenry/nf2hack/blob/master/globular.jpg)
 
+![alt](https://github.com/KristinHenry/nf2hack/blob/master/prettyglobular.png)
+
 ![alt](https://github.com/KristinHenry/nf2hack/blob/master/gettingSomewhere.png)
