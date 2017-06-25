@@ -6,3 +6,4 @@ Data Art project for the NF2 Hackathon in San Francisco
 I've been posting my progress on my [Patreon](https://www.patreon.com/posts/genomicart-step-12087837), and sharing screenshots of my work-in-progress.
 
 
+![alt](https://github.com/KristinHenry/nf2hack/blob/master/connectingAAdots.png)
